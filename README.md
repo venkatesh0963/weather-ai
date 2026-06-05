@@ -36,7 +36,7 @@ git clone https://github.com/MRVB96/weather-ai.git
 cd weather-ai
 ```
 
-### 2. Configure the Backend Environment
+### 2. Configure the Environment
 Navigate to `server/.env` and add your real API keys:
 ```env
 PORT=5000
@@ -44,7 +44,7 @@ WEATHER_API_KEY=your_weatherapi_key_here
 GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
-### 2. Install Dependencies & Start the Backend
+### 3. Install Dependencies & Start the Backend
 Open a terminal and run:
 ```bash
 cd server
@@ -53,7 +53,7 @@ npm run dev
 ```
 *The server will start on `http://localhost:5000`.*
 
-### 3. Install Dependencies & Start the Frontend
+### 4. Install Dependencies & Start the Frontend
 Open a second terminal and run:
 ```bash
 cd client
@@ -62,5 +62,5 @@ npm run dev
 ```
 *The frontend will start on `http://localhost:3000`.*
 
-### 4. Enjoy!
+### 5. Enjoy!
 Open your browser to [http://localhost:3000](http://localhost:3000) and explore the app!
