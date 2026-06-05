@@ -23,7 +23,20 @@ A production-ready, full-stack weather forecasting application featuring a moder
 
 ## Getting Started 🚀
 
-### 1. Configure the Backend Environment
+### Prerequisites 📦
+Before you begin, ensure you have the following software installed on your machine:
+- **[Node.js](https://nodejs.org/en/download/)** (v18.0.0 or higher) - Includes `npm` which is required to install dependencies and run the application.
+- **[Git](https://git-scm.com/downloads)** - Required to clone the repository to your computer.
+- A modern code editor like **[VS Code](https://code.visualstudio.com/)**.
+
+### 1. Clone the Repository
+Open your terminal and run:
+```bash
+git clone https://github.com/MRVB96/weather-ai.git
+cd weather-ai
+```
+
+### 2. Configure the Backend Environment
 Navigate to `server/.env` and add your real API keys:
 ```env
 PORT=5000
