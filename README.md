@@ -1,4 +1,4 @@
-# Premium Weather Forecasting Application 🌤️
+# Premium Weather Forecasting Application 🌤️.....
 
 A production-ready, full-stack weather forecasting application featuring a modern Glassmorphism UI, interactive charts, real-time maps, and an AI Weather Assistant powered by Google's Gemini API.
 
